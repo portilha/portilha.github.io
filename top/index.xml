@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on Pedro Portilha</title>
+    <link>https://portilha.github.io/top/</link>
+    <description>Recent content in Tops on Pedro Portilha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jan 2021 18:55:57 +0000</lastBuildDate><atom:link href="https://portilha.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://portilha.github.io/top/about/</link>
+      <pubDate>Sun, 17 Jan 2021 18:55:57 +0000</pubDate>
+      
+      <guid>https://portilha.github.io/top/about/</guid>
+      <description>I’ve been architecting, designing and implementing distributed applications since 1991, initially client-server applications written in C++ and Java deployed to UNIX/LINUX platforms. Beginning in 2011 I began working with highly-scaleable/highly-available microservice applications using Java, Erlang, and since 2015, Go. My current interests are in the areas of highly scalable/highly available distributed applications, Docker, Kubernetes, cloud architectures, and using Raspberry Pi clusters as a home lab. My blog reflects these interests1.</description>
+    </item>
+    
+  </channel>
+</rss>
