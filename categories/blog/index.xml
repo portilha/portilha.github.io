@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Pedro Portilha</title>
+    <title>blog on Portilha Blog</title>
     <link>https://portilha.github.io/categories/blog/</link>
-    <description>Recent content in blog on Pedro Portilha</description>
+    <description>Recent content in blog on Portilha Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://portilha.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,12 @@
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://portilha.github.io/post/securityheaders/</guid>
-      <description>What they are? References Tools </description>
+      <description>What they are? Self-assess your web assets with
+References Tools Securityheaders.io -&amp;gt; Check the HTTP security used
+Report-uri.io -&amp;gt; Tools
+Check in a human readable way the CSP HeadersConstruct the CSP policies for a given website CSP Fiddler Extension - Build the CSP for you
+NWebsec - For ASP MVC (Web.config) - easy way to configure CSP in .NET framework
+Report-uri.io -&amp;gt; read and store CSP reports</description>
     </item>
     
   </channel>
