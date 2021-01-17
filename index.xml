@@ -26,18 +26,9 @@
     </item>
     
     <item>
-      <title>Create a Free Blog Site Using GitHub Pages and Hugo</title>
-      <link>https://portilha.github.io/post/createnewsite/</link>
-      <pubDate>Mon, 31 Aug 2020 13:09:42 -0600</pubDate>
-      
-      <guid>https://portilha.github.io/post/createnewsite/</guid>
-      <description>&lt;p&gt;Want to create your own blog, but don&amp;rsquo;t want to get tied into any of the big hosted solutions or subscription publishing sites? This article describes how to use GitHub Pages with Hugo to create, maintain, and host your own blog site.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>An Example Post</title>
+      <title>Static Analysis Security Testing</title>
       <link>https://portilha.github.io/post/sastapp/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://portilha.github.io/post/sastapp/</guid>
       <description></description>
