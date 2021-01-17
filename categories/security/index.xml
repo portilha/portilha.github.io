@@ -13,7 +13,7 @@
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://portilha.github.io/post/securityheaders/</guid>
-      <description>What they are? References </description>
+      <description>What they are? References Tools </description>
     </item>
     
     <item>
@@ -23,6 +23,15 @@
       
       <guid>https://portilha.github.io/post/sastapp/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Open Redirect</title>
+      <link>https://portilha.github.io/post/openredirect/</link>
+      <pubDate>Mon, 17 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://portilha.github.io/post/openredirect/</guid>
+      <description>Open Redirect Open redirect (CWE-601) is a security flaw in a web application that is expose by accepting a redirect url from the user and failing to properly validate that same url, this type of flaw is also known as unvalidated redirects and forwards. Below are listed samples of code that expose an open redirect flaw in several programming languages by accepting and failing to correctly validate the parameter introduced by the user before sending the redirect action to the client.</description>
     </item>
     
   </channel>
