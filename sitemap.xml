@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://portilha.github.io/post/sastapp/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://portilha.github.io/categories/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
@@ -58,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://portilha.github.io/post/sastapp/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://portilha.github.io/tags/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url>
@@ -75,6 +75,21 @@
   <url>
     <loc>https://portilha.github.io/tags/xxs/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://portilha.github.io/post/start-heroku/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://portilha.github.io/tags/tag1/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://portilha.github.io/tags/tag2/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>

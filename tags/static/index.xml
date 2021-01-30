@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://portilha.github.io/tags/static/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Static Analysis Security Testing</title>
+      <title>Building an AppSec Program</title>
       <link>https://portilha.github.io/post/sastapp/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://portilha.github.io/post/sastapp/</guid>
-      <description></description>
+      <description>Build a Application Security Program AppSec Training Threat Modeling Bug Bounty Static Application Security Testing (SAST) OSA/SCA - Open Source Analysis or Software Composition Analysis IAST - Interactive Application Security Testing DAST - Dynamic Application Security Testing PenTesting </description>
     </item>
     
   </channel>

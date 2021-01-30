@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://portilha.github.io/categories/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Building an AppSec Program</title>
+      <link>https://portilha.github.io/post/sastapp/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://portilha.github.io/post/sastapp/</guid>
+      <description>Build a Application Security Program AppSec Training Threat Modeling Bug Bounty Static Application Security Testing (SAST) OSA/SCA - Open Source Analysis or Software Composition Analysis IAST - Interactive Application Security Testing DAST - Dynamic Application Security Testing PenTesting </description>
+    </item>
+    
+    <item>
       <title>Security Headers</title>
       <link>https://portilha.github.io/post/securityheaders/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
@@ -19,15 +28,6 @@ Report-uri.io -&amp;gt; Tools
 Check in a human readable way the CSP HeadersConstruct the CSP policies for a given website CSP Fiddler Extension - Build the CSP for you
 NWebsec - For ASP MVC (Web.config) - easy way to configure CSP in .NET framework
 Report-uri.io -&amp;gt; read and store CSP reports</description>
-    </item>
-    
-    <item>
-      <title>Static Analysis Security Testing</title>
-      <link>https://portilha.github.io/post/sastapp/</link>
-      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://portilha.github.io/post/sastapp/</guid>
-      <description></description>
     </item>
     
     <item>
